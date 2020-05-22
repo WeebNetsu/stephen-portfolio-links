@@ -9,7 +9,7 @@ body{
 }
 
 a{
-	color: red;
+	color: #fff;
 }
 
 a:hover{
@@ -26,6 +26,7 @@ header{
 	height: 100%;
 	padding: 1rem;
 	color: #208FE9;
+	border-radius: 10px;
 }
 
 .tab-content li{
